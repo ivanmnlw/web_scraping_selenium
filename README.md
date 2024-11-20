@@ -1,4 +1,4 @@
-# Web Scraping Assignment
+# Web Scraping Assignment (Ivan Manuel Wicaksono)
 ## Tugas web scraping dari dibimbing
 Project ini adalah contoh web scraping menggunakan selenium dan google collab. Langkah-langkah pembuatan script code dibagi menjadi tiga tahap yaitu:
 
